@@ -333,3 +333,14 @@ MEMORY_THRESHOLD_PERCENT=85
 ---
 
 Built for: Apache Airflow 2.x | AMD Ryzen 5 5600H | RTX 3050 | Windows 11
+
+
+
+
+
+
+[Airflow AI Agent.pdf](https://github.com/user-attachments/files/25914471/Airflow.AI.Agent.pdf)
+[Airflow AI Agent Systems.pdf](https://github.com/user-attachments/files/25914470/Airflow.AI.Agent.Systems.pdf)
+[Airflow AI Agent Simulate DAG.pdf](https://github.com/user-attachments/files/25914469/Airflow.AI.Agent.Simulate.DAG.pdf)
+[Airflow AI Agent Dependency.pdf](https://github.com/user-attachments/files/25914468/Airflow.AI.Agent.Dependency.pdf)
+[Airflow AI Agent All Incidents.pdf](https://github.com/user-attachments/files/25914466/Airflow.AI.Agent.All.Incidents.pdf)
